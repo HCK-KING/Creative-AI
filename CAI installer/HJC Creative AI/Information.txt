@@ -1,0 +1,11 @@
+Made by Harry Cleaver
+powered by Ollama
+
+features include:
+- Fast chat
+- Coding mode
+- Thinking mode
+- Local AI (No internet required)
+- Saved chats (chats.json)
+- Rename chats
+- Delete chats
